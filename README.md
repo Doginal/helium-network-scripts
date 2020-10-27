@@ -5,7 +5,8 @@ bash, jq, cut, curl, docker with helium miner
 
 #Usage:
 
-./get-height.sh miner
+`./get-height.sh NAME_OF_DOCKER_CONTAINER` 
+ie: miner
 
 #Output
 ```
